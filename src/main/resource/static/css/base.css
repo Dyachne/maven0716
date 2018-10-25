@@ -1,0 +1,20 @@
+.login_page{
+	background: url("/images/login_bg.png") no-repeat center center;
+    background-size: 100% 100%;
+    
+    background-size:cover;
+}
+
+.div_center{
+	width:200px;
+            height: 200px;
+            /*
+            background:green;
+            */
+            position: absolute;
+            left:50%;
+            top:50%;
+            margin-left:-100px;
+            margin-top:-100px;
+}
+
